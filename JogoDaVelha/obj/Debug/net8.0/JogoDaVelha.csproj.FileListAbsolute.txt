@@ -1,0 +1,15 @@
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.sourcelink.json
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+c:\Users\ASUS\Desktop\Cauã\jogo-da-velha\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
