@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\JogoDaVelha\\JogoDaVelha.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\JogoDaVelha.csproj",
       "projectName": "JogoDaVelha",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\JogoDaVelha\\JogoDaVelha.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\JogoDaVelha.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\JogoDaVelha\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Cauã\\jogo-da-velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
