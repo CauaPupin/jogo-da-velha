@@ -3,9 +3,9 @@
 ## Requisitos Funcionais
 
 ### RF01 - Jogador deve criar nova partida
-O aplicativo deve permitir que um jogador inicie uma nova partida de Jogo da Velha, configurando o tamanho do tabuleiro (linhas e colunas).
+O aplicativo deve cria uma nova partida, com o tamanho padrão 3x3 (linhas e colunas)
 
-> Como jogador, gostaria de criar uma nova partida, definindo o número de linhas e colunas do tabuleiro.
+> Como jogador, gostaria de criar uma nova partida, com o número de linhas e colunas do tabuleiro igual a 3.
 
 ### RF02 - Jogador deve conseguir consultar uma partida existente
 O aplicativo deve permitir que o jogador consulte uma partida em andamento para visualizar o estado atual do jogo.
