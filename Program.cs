@@ -29,9 +29,9 @@ class JogoDaVelha
         // ---- INICIALIZAR TABULEIRO VAZIO ----
         for (int i = 0; i < linhas; i++)
         {
-            for (int j = 0; j < colunas; j++)
+            for (int c = 0; c < colunas; j++)
             {
-                tabuleiro[i, j] = ' ';
+                tabuleiro[i, c] = ' ';
             }
         }
     }
@@ -41,10 +41,10 @@ private void MostrarTab()
 {
     for (int i = 0; i < 3; i++)
     {
-        for (int j = 0; j < 3; j++)
+        for (int c = 0; c < 3; c++)
         {
-            Console.Write(tabuleiro[i, j]);
-            if (j < 2) Console.Write("|");
+            Console.Write(tabuleiro[i, c]);
+            if (c < 2) Console.Write("|");
         }
         Console.WriteLine();
         if (i < 2) Console.WriteLine("-----");
